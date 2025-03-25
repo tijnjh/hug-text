@@ -1,0 +1,19 @@
+{
+  "name": "hug-text",
+  "version": "0.0.1",
+  "description": "a very simple js library to fix an annoying css problem ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tijnjh/hug-text.git"
+  },
+  "author": "tijnjh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tijnjh/hug-text/issues"
+  },
+  "homepage": "https://github.com/tijnjh/hug-text#readme"
+}
