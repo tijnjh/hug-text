@@ -1,4 +1,4 @@
-function hugText(input) {
+export function hugText(input) {
   if (!input) {
     throw new Error("Input is required");
   }
