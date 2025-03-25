@@ -1,7 +1,3 @@
-/**
- * Adjusts the width of a given element to fit its text content without increasing its height.
- * @param {HTMLElement} element - The element to adjust.
- */
 export function hugText(element) {
   if (!element) {
     throw new Error("Element is required");
