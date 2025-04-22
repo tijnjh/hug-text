@@ -1,6 +1,6 @@
 {
   "name": "hug-text",
-  "version": "0.0.41",
+  "version": "0.0.41-1",
   "description": "a very simple js library to fix an annoying css problem ",
   "main": "src/index.js",
   "repository": {
