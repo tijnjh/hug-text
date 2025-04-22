@@ -2,6 +2,9 @@
 
 simple util to trim inline space from elements that have wrapping text inside of it
 
+> [!IMPORTANT]  
+> This function is now part of https://tijn.dev/tsuite
+
 ## usage
 
 ```sh
